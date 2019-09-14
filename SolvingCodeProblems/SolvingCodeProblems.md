@@ -6,10 +6,10 @@
 
 ## What skills interviewer is looking for:
 
-- **Analytic Skills** - How can you think through problems and analyze things?\_\_
-- **Coding Skills** - Do you code well, by writing clean, simple, organized, readable code?\_\_
-- **Technical knowledge** - Do you know the fundamentals of the job you're applying for?\_\_
-- **Communication skills** - Does your personality match the companies’ culture?\_\_
+- **Analytic Skills** - How can you think through problems and analyze things?<br />
+- **Coding Skills** - Do you code well, by writing clean, simple, organized, readable code?<br />
+- **Technical knowledge** - Do you know the fundamentals of the job you're applying for?<br />
+- **Communication skills** - Does your personality match the companies’ culture?<br />
 
 ## Step By Step through a problem:
 
@@ -90,3 +90,5 @@
     more space to get faster time
     And always remember: Communicate your thought process as much as possible. Don’t worry about
     finishing it fast. Every part of the interview matters.
+
+## > Great programmers pick the right data structures the right algorithm to write good programs.
