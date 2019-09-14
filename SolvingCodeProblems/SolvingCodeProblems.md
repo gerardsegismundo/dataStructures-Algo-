@@ -91,4 +91,4 @@
     And always remember: Communicate your thought process as much as possible. Don’t worry about
     finishing it fast. Every part of the interview matters.
 
-## > Great programmers pick the right data structures the right algorithm to write good programs.
+> Great programmers pick the right data structures the right algorithm to write good programs.
