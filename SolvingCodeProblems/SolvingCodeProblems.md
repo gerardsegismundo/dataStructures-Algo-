@@ -6,10 +6,10 @@
 
 ## What skills interviewer is looking for:
 
-**Analytic Skills** - How can you think through problems and analyze things?
-**Coding Skills** - Do you code well, by writing clean, simple, organized, readable code?
-**Technical knowledge** - Do you know the fundamentals of the job you're applying for?
-**Communication skills** - Does your personality match the companies’ culture?
+- **Analytic Skills** - How can you think through problems and analyze things?\_\_
+- **Coding Skills** - Do you code well, by writing clean, simple, organized, readable code?\_\_
+- **Technical knowledge** - Do you know the fundamentals of the job you're applying for?\_\_
+- **Communication skills** - Does your personality match the companies’ culture?\_\_
 
 ## Step By Step through a problem:
 
