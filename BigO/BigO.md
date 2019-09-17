@@ -2,12 +2,12 @@
 
 ## Big O
 
-_O(1)_ - Constant - no loops
-_O(n)_ - Linear - for while loops
-_O(n!)_ - Factorial - you are adding a loop for every element
+**O(1)** - Constant - no loops <br />
+**O(n)** - Linear - for while loops <br />
+**O(n!)** - Factorial - you are adding a loop for every element <br />
 
-**Iterating through half a collection is still O(n)**
-**Two separate collections: O(a + b)**
+> Iterating through half a collection is still O(n)
+> Two separate collections: O(a + b)
 
 ## Rule Book
 
@@ -18,9 +18,9 @@ _O(n!)_ - Factorial - you are adding a loop for every element
 
 ## 3 Pillars of Programming
 
-- _Readable_
-- _Memory_ - Space Complexity
-- _Speed_ - Time Complexity
+- **Readable**
+- **Memory** - Space Complexity
+- **Speed** - Time Complexity
 
 ## Causes space complexity
 
@@ -31,5 +31,5 @@ _O(n!)_ - Factorial - you are adding a loop for every element
 
 ## Javascript Engine
 
-_Memory Heap_ - where we store variables
-_Call Stack_ - where we keep track our function calls
+**Memory Heap** - where we store variables
+**Call Stack** - where we keep track our function calls
