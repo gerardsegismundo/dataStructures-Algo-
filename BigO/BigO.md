@@ -6,7 +6,7 @@
 **O(n)** - Linear - for while loops <br />
 **O(n!)** - Factorial - you are adding a loop for every element <br />
 
-> Iterating through half a collection is still O(n)
+> Iterating through half a collection is still O(n) <br />
 > Two separate collections: O(a + b)
 
 ## Rule Book
@@ -31,5 +31,5 @@
 
 ## Javascript Engine
 
-**Memory Heap** - where we store variables
+**Memory Heap** - where we store variables <br />
 **Call Stack** - where we keep track our function calls
