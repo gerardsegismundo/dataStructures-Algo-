@@ -1,6 +1,6 @@
 # Queues and Stacks :muscle:
 
-**stacks** - first in last out (FILO)
+**stacks** - first in last out (FILO) <br />
 **queues** - first in first out (FIFO)
 
 ## Stacks
