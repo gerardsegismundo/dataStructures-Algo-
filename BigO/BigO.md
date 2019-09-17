@@ -28,8 +28,3 @@
 - Data Structures
 - Function Call
 - Allocations
-
-## Javascript Engine
-
-**Memory Heap** - where we store variables <br />
-**Call Stack** - where we keep track our function calls
