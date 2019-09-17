@@ -29,5 +29,7 @@ _O(n!)_ - Factorial - you are adding a loop for every element
 - Function Call
 - Allocations
 
-_Heap_ - where we store variables
-_Stack_ - where we keep track our function calls
+## Javascript Engine
+
+_Memory Heap_ - where we store variables
+_Call Stack_ - where we keep track our function calls
