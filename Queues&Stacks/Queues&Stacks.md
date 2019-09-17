@@ -12,7 +12,7 @@
 | push   | O(1)  |
 | peek   | O(1)  |
 
-## Ques
+## Queues
 
 | Method  | Big O |
 | ------- | ----- |
