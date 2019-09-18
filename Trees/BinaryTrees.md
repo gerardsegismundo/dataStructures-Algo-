@@ -15,8 +15,5 @@
 - **level 2**: 2^2 = 4
 - **level 3**: 2^3 = 8
 
-log 100 = 2
-10^2 = 100
-
-> `# of nodes = 2^h - 1
+> \# of nodes = 2^h - 1 <br />
 > log nodes = steps
