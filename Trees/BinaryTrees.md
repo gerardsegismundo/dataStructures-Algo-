@@ -1,6 +1,6 @@
 # Binary Tree :seedling:
 
-![Binary Tree](/BinaryTrees.md)
+![Binary Tree](/binaryTree.image.jpg)
 
 ## Binary Search Tree
 
