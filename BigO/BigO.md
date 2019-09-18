@@ -1,5 +1,7 @@
 # Asymptotic analyis
 
+![Binary Tree](./bigO.image.png)
+
 ## Big O
 
 **O(1)** - Constant - no loops <br />
