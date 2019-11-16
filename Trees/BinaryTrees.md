@@ -15,5 +15,11 @@
 - **level 2**: 2^2 = 4
 - **level 3**: 2^3 = 8
 
+| :grin:           | :slightly_frowning_face: |
+| ---------------- | ------------------------ |
+| Better than O(n) | No o(1) Operations       |
+| Ordered          |
+| Flexible Size    |
+
 > \# of nodes = 2^h - 1 <br />
 > log nodes = steps
